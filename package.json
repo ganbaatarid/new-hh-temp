@@ -1,0 +1,22 @@
+{
+  "name": "@ganbaatarid/new-hh-temp",
+  "version": "1.0.0",
+  "description": "gg",
+  "main": "index.js",
+  "publishConfig": {
+    "@ganbaatarid/new-hh-temp:registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganbaatarid/new-hh-temp.git"
+  },
+  "author": "hh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganbaatarid/new-hh-temp/issues"
+  },
+  "homepage": "https://github.com/ganbaatarid/new-hh-temp#readme"
+}
