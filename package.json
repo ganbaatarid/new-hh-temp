@@ -4,7 +4,7 @@
   "description": "gg",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org/@ganbaatarid%2fnew-hh-temp"
   },
   "scripts": {
     "test": "exit 0"
